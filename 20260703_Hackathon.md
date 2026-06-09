@@ -11,6 +11,17 @@ Access guide downloads:
 - <a href="docs/guidance_en.pdf" target="_blank">English PDF</a>
 - <a href="docs/guidance_jp.pdf" target="_blank">Japanese PDF</a>
 
+## Receptions
+
+Two evening gatherings are planned for hackathon participants:
+
+- **Day 1 — July 3, 18:00:** A catered reception at the Hinode Campus, with food and special activities. The fee is 3,000 yen for students and 4,000 yen for faculty members.
+- **Day 2 — July 4, 18:00:** A BBQ gathering at Kasai Rinkai Park BBQ Beer Garden. Transportation between the campus and the venue will be arranged. The fee is 3,000 yen for students, 5,000 yen for faculty members with soft drinks, or 6,000 yen for faculty members with alcoholic drinks. The BBQ may be canceled depending on the weather.
+
+We sincerely hope that you will join us for the receptions. They will be a valuable opportunity to meet other participants, exchange ideas, and enjoy time together outside the hackathon sessions.
+
+**<a href="https://docs.google.com/forms/d/e/1FAIpQLScGM1ZgBNN2-wMnpTLWlwy067iFj-dut9a7XC800pJDAFiJmg/viewform?usp=dialog" target="_blank">RECEPTION FORM</a>**
+
 ## Aim
 
 This hackathon has two interconnected goals centered on <a href="https://github.com/oist/neuro-workflow" target="_blank">**Neuro-Workflow**</a>.
@@ -98,14 +109,3 @@ Even if you are not attending the hackathon, if you have code within the Brain/M
 11:00 Summary and action plans  
  
 12:00 Adjourn  
-
-## Receptions
-
-Two evening gatherings are planned for hackathon participants:
-
-- **Day 1 — July 3, 18:00:** A catered reception at the Hinode Campus, with food and special activities. The fee is 3,000 yen for students and 4,000 yen for faculty members.
-- **Day 2 — July 4, 18:00:** A BBQ gathering at Kasai Rinkai Park BBQ Beer Garden. Transportation between the campus and the venue will be arranged. The fee is 3,000 yen for students, 5,000 yen for faculty members with soft drinks, or 6,000 yen for faculty members with alcoholic drinks. The BBQ may be canceled depending on the weather.
-
-We sincerely hope that you will join us for the receptions. They will be a valuable opportunity to meet other participants, exchange ideas, and enjoy time together outside the hackathon sessions.
-
-**<a href="https://docs.google.com/forms/d/e/1FAIpQLScGM1ZgBNN2-wMnpTLWlwy067iFj-dut9a7XC800pJDAFiJmg/viewform?usp=dialog" target="_blank">RECEPTION FORM</a>**
