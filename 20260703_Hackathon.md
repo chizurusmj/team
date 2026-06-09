@@ -58,6 +58,7 @@ Even if you are not attending the hackathon, if you have code within the Brain/M
 ## Before You Come
 
 - **Register** — fill in your name, affiliation, email, and the target you would like to work on in the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u" target="_blank">registration form</a>. You will be added to the Neuro-Workflow system in advance.
+- **Receptions** — please also complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScGM1ZgBNN2-wMnpTLWlwy067iFj-dut9a7XC800pJDAFiJmg/viewform?usp=dialog" target="_blank">reception form</a> so we can prepare the evening gatherings.
 - **Bring your own code** — any Python script you have for a neural model, data preprocessing, analysis, or simulation. Unstructured is fine; that is the starting point.
 - **AI coding agent** — bring your own <a href="https://claude.ai/code" target="_blank">Claude Code</a> or <a href="https://platform.openai.com/docs/guides/codex" target="_blank">Codex</a> subscription if you have one. OpenAI API keys will be provided for those who don't (please install Codex in that case). Claude Code is preferred.
 - **Laptop** — with Python and pip installed. Please pre-install any tools you plan to use (e.g. NEST, TVB).
