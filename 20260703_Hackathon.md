@@ -1,19 +1,26 @@
 # The third Digital Brain Hackathon
 
 ## July 3rd - 5th, 2026
-〒279-0013 Juntendo University Urayasu Hinode Campus, 6-8-1 Hinode, Urayasu, Japan 
-〒279-0013 千葉県浦安市日の出６丁目８−１順天堂大学浦安日の出キャンパス
+
+## Registration
+
+Please complete the form below to register for the hackathon.
 
 **<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u" target="_blank">REGISTRATION FORM</a>**
 
-Access guide downloads:
+Venue:
+
+〒279-0013 Juntendo University Urayasu Hinode Campus, 6-8-1 Hinode, Urayasu, Japan
+〒279-0013 千葉県浦安市日の出６丁目８−１順天堂大学浦安日の出キャンパス
+
+Access Guide Downloads:
 
 - <a href="docs/guidance_en.pdf" target="_blank">English PDF</a>
 - <a href="docs/guidance_jp.pdf" target="_blank">Japanese PDF</a>
 
 ## Receptions
 
-Two evening gatherings are planned for hackathon participants:
+Two evening gatherings are planned for hackathon participants.
 
 - **Day 1 — July 3, 18:00:** A catered reception at the Hinode Campus, with food and special activities. The fee is 3,000 yen for students and 4,000 yen for faculty members.
 - **Day 2 — July 4, 18:00:** A BBQ gathering at Kasai Rinkai Park BBQ Beer Garden. Transportation between the campus and the venue will be arranged. The fee is 3,000 yen for students, 5,000 yen for faculty members with soft drinks, or 6,000 yen for faculty members with alcoholic drinks. The BBQ may be canceled depending on the weather.
